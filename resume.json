@@ -1,1 +1,93 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"郑振东","email":"1012061740@qq.com","mobile":"18819941799","github":"","zhihu":"","workExpYear":"","workPlace":"深圳，广州，上海","positionTitle":"后端工程师，AI 应用开发"},"educationList":[{"edu_time":["2018.09","2022.06"],"school":" 广州大学","major":"软件工程","dataIndex":0}],"awardList":[],"workExpList":[{"company_name":"深圳二木教育公司","department_name":"AI 应用开发","work_time":["2023.08",""],"work_desc":"1. 支持公司 AI 应用后端架构和开发。\n2. 探索前沿的 LLM 应用和落地，Prompt 编写和优化。\n3. 构建公司自用的 AI 通用工作流，Prompt 测试，新流程应用效率提升 70% 以上。","dataIndex":0},{"company_name":"字节跳动","department_name":"Java 后端开发","work_time":["2021.08","2023.08"],"work_desc":"1. 深入参与字节验收，付款，结算等服务项目开发，架构升级，性能优化工作。\n2. 独立负责验收系统的设计与开发，保证架构合理，代码质量高，系统高效稳定。\n3. 提高采购系统验收评价收集率70%，验收提醒触达率50%。支持供应商在线收款,，提升发票到提交付款的效率20%，发票协同率30%，采购业务流程整体提效30%以上。","dataIndex":1}],"skillList":[{"skill_name":"","skill_desc":"具有扎实的编程基础，精通Java开发语言以及Spring框架，熟悉缓存，分布式架构，消息中间件等核心技术。","skill_level":null,"dataIndex":0},{"skill_name":"","skill_level":null,"dataIndex":1,"skill_desc":"具有DDD架构，流程编排，事件驱动开发经验，有复杂业务系统的设计开发能力。"},{"skill_name":"","skill_desc":"熟悉MySQL，Es等存储技术，对SQL优化有一定的经验。","skill_level":null,"dataIndex":2},{"skill_name":"","skill_desc":"丰富的 LLM Prompt 编写和调优经验，，多个 AI 应用落地经验。","skill_level":null,"dataIndex":3}],"projectList":[{"project_name":"","project_role":"","project_time":"2024.04 - 至今","project_desc":"通用工作流支持多个AI场景","project_content":"\n1. 实现通用工作流，支持自定义逻辑和结果解析等功能。\n2. 实现 AI 对话和发图功能，优化用户互动。\n3. 实现 AI 故事自动生成和校验，大纲解析，内容优化。","dataIndex":1},{"project_time":"2022.04 - 2022.07","project_name":"","project_role":"","project_desc":"电商场景自动验收优化 ","project_content":"\n1. 主导电商场景兜底人工验收的核心技术方案设计，表设计，核心功能整理和主要的开发工作。\n2. 对自动验收缺乏风控策略兜底而存在的资损风险进行管控，提高合规度。\n3. 支持按电商渠道的自动验收自动熔断，快捷风控阈值配置，提高灵活性，减少后续代码开发量约50%。"}],"workList":[],"aboutme":{"aboutme_desc":"后端工程师，四年开发经验\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": { "hidden": true },
+  "profile": {
+    "name": "郑振东",
+    "email": "1012061740@qq.com",
+    "mobile": "18819941799",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "深圳，广州，上海",
+    "positionTitle": "后端工程师，AI 应用开发"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2018.09", "2022.06"],
+      "school": " 广州大学",
+      "major": "软件工程",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "company_name": "深圳二木教育公司",
+      "department_name": "AI 应用开发",
+      "work_time": ["2023.08", ""],
+      "work_desc": "1. 支持公司 AI 应用后端架构和开发。\n2. 探索前沿的 LLM 应用和落地，Prompt 编写和优化。\n3. 构建公司自用的 AI 通用工作流，Prompt 测试，新流程应用效率提升 70% 以上。",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "字节跳动",
+      "department_name": "Java 后端开发",
+      "work_time": ["2021.08", "2023.08"],
+      "work_desc": "1. 深入参与字节验收，付款，结算等服务项目开发，架构升级，性能优化工作。\n2. 独立负责验收系统的设计与开发，保证架构合理，代码质量高，系统高效稳定。\n3. 提高采购系统验收评价收集率70%，验收提醒触达率50%。支持供应商在线收款,，提升发票到提交付款的效率20%，发票协同率30%，采购业务流程整体提效30%以上。",
+      "dataIndex": 1
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "",
+      "skill_desc": "具有扎实的编程基础，精通Java开发语言以及Spring框架，熟悉缓存，分布式架构，消息中间件等核心技术。",
+      "skill_level": null,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "",
+      "skill_level": null,
+      "dataIndex": 1,
+      "skill_desc": "具有DDD架构，流程编排，事件驱动开发经验，有复杂业务系统的设计开发能力。"
+    },
+    {
+      "skill_name": "",
+      "skill_desc": "熟悉MySQL，Es等存储技术，对SQL优化有一定的经验。",
+      "skill_level": null,
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "",
+      "skill_desc": "丰富的 LLM Prompt 编写和调优经验，，多个 AI 应用落地经验。",
+      "skill_level": null,
+      "dataIndex": 3
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "",
+      "project_role": "",
+      "project_time": "2024.04 - 至今",
+      "project_desc": "通用工作流支持多个AI场景",
+      "project_content": "\n1. 实现通用工作流，支持自定义逻辑和结果解析等功能。\n2. 实现 AI 对话和发图功能，优化用户互动。\n3. 实现 AI 故事自动生成和校验，大纲解析，内容优化。",
+      "dataIndex": 1
+    },
+    {
+      "project_time": "2022.04 - 2022.07",
+      "project_name": "",
+      "project_role": "",
+      "project_desc": "电商场景自动验收优化 ",
+      "project_content": "\n1. 主导电商场景兜底人工验收的核心技术方案设计，表设计，核心功能整理和主要的开发工作。\n2. 对自动验收缺乏风控策略兜底而存在的资损风险进行管控，提高合规度。\n3. 支持按电商渠道的自动验收自动熔断，快捷风控阈值配置，提高灵活性，减少后续代码开发量约50%。"
+    }
+  ],
+  "workList": [],
+  "aboutme": { "aboutme_desc": "后端工程师，四年开发经验\n    " },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
